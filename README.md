@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Hi, I'm Kurt Cadenas 👋
-🌱 I’m currently learning Java, Spring Framework, RAG-Based ChatBots<br>📫 How to reach me kurtjordanviradorcadenas@gmail.com<br>👨‍💻 All of my projects are available at https://kurtcadenas.vercel.app/
+🌱 I’m currently learning FastAPI, AI-integration<br>📫 How to reach me kurtjordanviradorcadenas@gmail.com<br>👨‍💻 All of my projects are available at https://kurtcadenas.vercel.app/
 
 ## 🌐 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kurtjordancadenas/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kurtjordanviradorcadenas@gmail.com) 
